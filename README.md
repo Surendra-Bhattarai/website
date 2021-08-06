@@ -1,9 +1,9 @@
 Welcome to my website.
 
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Surendra Bhattarai is a 3rd year undergrad pursuing BS-MS dual degreee course at Indian Institute of Science Education and Research (IISER) - Kolkata.
 
 ```markdown
 Syntax highlighted code block
