@@ -3,7 +3,7 @@ Welcome to my website.
 
 ### About me
 
-Surendra Bhattarai is a 3rd year undergrad pursuing BS-MS dual degreee course at Indian Institute of Science Education and Research (IISER) - Kolkata.
+Surendra Bhattarai is a 3rd year undergrad pursuing BS-MS dual degreee course at [Indian Institute of Science Education and Research (IISER) - Kolkata](https://www.iiserkol.ac.in/web/en/#gsc.tab=0).
 
 ```markdown
 Syntax highlighted code block
