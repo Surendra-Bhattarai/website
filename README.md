@@ -1,9 +1,11 @@
-# Namaste friends!! This is my academic website. I try to upload materaials and notes related to my course here.
+# Surendra Bhattarai
+
+Namaste friends!! This is my academic website. I try to upload materials and notes related to my course here.
 
 
-### About me
+## About me
 
-Surendra Bhattarai is a 3rd year undergrad pursuing BS-MS dual degreee course at [Indian Institute of Science Education and Research (IISER) - Kolkata](https://www.iiserkol.ac.in/web/en/#gsc.tab=0).
+Surendra Bhattarai is a 3rd year undergraduate student pursuing BS-MS dual degreee course at [Indian Institute of Science Education and Research (IISER) - Kolkata](https://www.iiserkol.ac.in/web/en/#gsc.tab=0). He is interested in astronomy, astrophysics and cosmology. He loves spending time analysing astronomical data.
 
 ```markdown
 Syntax highlighted code block
