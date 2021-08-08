@@ -1,4 +1,4 @@
-Welcome to my website.
+# Namaste friends!! This is my academic website. I try to upload materaials and notes related to my course here.
 
 
 ### About me
